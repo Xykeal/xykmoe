@@ -1,16 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import theme from './theme'
 
-function App() {
-  const [count, setCount] = useState(0)
+import { CssBaseline } from '@mui/material'
+import { ThemeProvider } from '@mui/material/styles'
+import Home from './pages/Home'
+
+const App = () => {
+  document.title = 'Xykeal'
 
   return (
-    <>
-      <h1>uwu</h1>
-    </>
-  )
+    <ThemeProvider theme={theme}>
+    <CssBaseline />
+    <BrowserRouter>
+      <Routes>
+        <Route path="*" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
+    </ThemeProvider>
+  );
 }
 
 export default App
