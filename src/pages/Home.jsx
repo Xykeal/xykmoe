@@ -6,6 +6,17 @@ import Wheel from '../components/Wheel';
 const speed = 3;
 
 const Home = () => {
+  const pages = [
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+    {name: 'page', link: "/uwu"},
+  ]
+
   return (
     <>
     <Box
@@ -20,7 +31,7 @@ const Home = () => {
       >
     </Box>
     <Box sx={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
-      <Wheel />
+      <Wheel pages={pages}/>
     </Box>
     </>
   )

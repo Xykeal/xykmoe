@@ -1,13 +1,19 @@
 import React from 'react';
-import { Box, Typography } from '@mui/material';
+import { Box, Button, Typography } from '@mui/material';
 import Uwu from '../components/Uwu';
+import { useNavigate } from 'react-router-dom';
 
 const speed = 3;
 
 const Limbo = () => {
+  const navigate = useNavigate();
+
   return (
-    <Box sx={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)' }}>
+    <Box sx={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
       <Uwu />
+      <Button size='large' label="back button" onClick={() => navigate(-1)} sx={{ mt: 7 }}>
+        Back
+      </Button>
     </Box>
   )
 };

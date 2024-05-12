@@ -28,6 +28,11 @@ const theme = createTheme({
       },
     },
   },
+  typography: {
+    button: {
+      textTransform: 'none',
+    },
+  },
   palette,
 });
 

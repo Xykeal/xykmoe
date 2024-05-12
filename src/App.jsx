@@ -5,7 +5,6 @@ import theme from './theme'
 import { CssBaseline } from '@mui/material'
 import { ThemeProvider } from '@mui/material/styles'
 import Home from './pages/Home'
-import Wheel from './components/Wheel'
 import Limbo from './pages/Limbo'
 
 const App = () => {

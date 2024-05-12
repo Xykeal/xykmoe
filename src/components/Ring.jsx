@@ -17,13 +17,13 @@ export const arcPath = (x, y, radius, startAngle, endAngle) => {
     return `M ${start.x} ${start.y} A ${radius} ${radius} 0 ${largeArcFlag} 0 ${end.x} ${end.y}`;       
 }
 
-const Ring = ({ x, y, radius, startAngle, endAngle, strokeWidth, stroke, ...restProps }) => {
+const Ring = ({ cx, cy, radius, startAngle, endAngle, strokeWidth, stroke, ...restProps }) => {
   return (
     <path
       fill="none"
       stroke={stroke}
       strokeWidth={`${strokeWidth}px`}
-      d={arcPath(x, y, radius, startAngle, endAngle)}
+      d={arcPath(cx, cy, radius, startAngle, endAngle)}
       {...restProps}
     />
   );
