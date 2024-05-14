@@ -1,0 +1,497 @@
+{
+  "vaultName": "Spire",
+  "lastExport": 1715694349655,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Characters/Alpha.md",
+    "Characters/Gris.md",
+    "Characters/Gris Friend 1.md",
+    "Characters/Gris Friend 2.md",
+    "Characters/Iota.md",
+    "Characters/Lab Spies.md",
+    "Characters/Nu.md",
+    "Characters/Ray.md",
+    "Characters/Ray Family.md",
+    "Characters/Scout.md",
+    "Characters/The Entity.md",
+    "Characters/Yuki.md",
+    "Combat/Battle Aura.md",
+    "Factions/Guilds/Adventurer's Guild.md",
+    "Factions/Guilds/Courier's Guild.md",
+    "Factions/Knights/Firsts.md",
+    "Locations/Floors/The Floor of Fire.md",
+    "Locations/Floors/The Floor of Forest.md",
+    "Locations/Floors/The Floor of Ice.md",
+    "Locations/Floors/The Floor of Light.md",
+    "Locations/Floors/The Floor of Sand.md",
+    "Locations/Floors/The Floor of Shadows.md",
+    "Locations/Floors/The Floor of Water.md",
+    "Locations/Kingdoms/Kingdom of Smiths.md",
+    "Locations/Kingdoms/Kingdom on Floor 5.md",
+    "Locations/Labyrinths/The Lab.md",
+    "Locations/Spire/Axis Circle.md",
+    "Locations/Spire/Celestial Spire.md",
+    "Locations/Old World.md",
+    "Locations/Sanctuary.md",
+    "Magic/Elements/Earth.md",
+    "Magic/Elements/Fire.md",
+    "Magic/Elements/Water.md",
+    "Magic/Elements/Wind.md",
+    "Magic/Spells/Explosion.md",
+    "Magic/Spells/Explosion Fireball.md",
+    "Magic/Spells/Fireball.md",
+    "Magic/Spells/Stone Blast.md",
+    "Magic/Techniques/Casting.md",
+    "Magic/Techniques/Composition.md",
+    "Magic/Techniques/Incantations.md",
+    "Magic/Techniques/Magic Circles.md",
+    "Magic/Techniques/Materialisation.md",
+    "Magic/Magic.md",
+    "Magic/Mana.md",
+    "Monsters/Floor Guardians/Floor Guardians.md",
+    "Monsters/Floor Guardians/Ghost.md",
+    "Timeline/Arc 1.md",
+    "Timeline/Arc 2.md",
+    "Timeline/Prologue.md",
+    "Timeline/Time.md",
+    "Timeline/Timeline.canvas",
+    "Home.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg"
+  ],
+  "fileInfo": {
+    "Characters/Alpha.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 63,
+      "exportedPath": "Characters/Alpha.html",
+      "dependencies": []
+    },
+    "Characters/Gris.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 4097,
+      "exportedPath": "Characters/Gris.html",
+      "dependencies": []
+    },
+    "Characters/Gris Friend 1.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 28,
+      "exportedPath": "Characters/Gris Friend 1.html",
+      "dependencies": []
+    },
+    "Characters/Gris Friend 2.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 28,
+      "exportedPath": "Characters/Gris Friend 2.html",
+      "dependencies": []
+    },
+    "Characters/Iota.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 561,
+      "exportedPath": "Characters/Iota.html",
+      "dependencies": []
+    },
+    "Characters/Lab Spies.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 178,
+      "exportedPath": "Characters/Lab Spies.html",
+      "dependencies": []
+    },
+    "Characters/Nu.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Characters/Nu.html",
+      "dependencies": []
+    },
+    "Characters/Ray.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 620,
+      "exportedPath": "Characters/Ray.html",
+      "dependencies": []
+    },
+    "Characters/Ray Family.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 8,
+      "exportedPath": "Characters/Ray Family.html",
+      "dependencies": []
+    },
+    "Characters/Scout.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 1875,
+      "exportedPath": "Characters/Scout.html",
+      "dependencies": []
+    },
+    "Characters/The Entity.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 961,
+      "exportedPath": "Characters/The Entity.html",
+      "dependencies": []
+    },
+    "Characters/Yuki.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 853,
+      "exportedPath": "Characters/Yuki.html",
+      "dependencies": []
+    },
+    "Combat/Battle Aura.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 1692,
+      "exportedPath": "Combat/Battle Aura.html",
+      "dependencies": []
+    },
+    "Factions/Guilds/Adventurer's Guild.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 893,
+      "exportedPath": "Factions/Guilds/Adventurer's Guild.html",
+      "dependencies": []
+    },
+    "Factions/Guilds/Courier's Guild.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 392,
+      "exportedPath": "Factions/Guilds/Courier's Guild.html",
+      "dependencies": []
+    },
+    "Factions/Knights/Firsts.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 252,
+      "exportedPath": "Factions/Knights/Firsts.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Fire.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 7,
+      "exportedPath": "Locations/Floors/The Floor of Fire.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Forest.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 210,
+      "exportedPath": "Locations/Floors/The Floor of Forest.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Ice.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 967,
+      "exportedPath": "Locations/Floors/The Floor of Ice.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Light.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 224,
+      "exportedPath": "Locations/Floors/The Floor of Light.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Sand.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 7,
+      "exportedPath": "Locations/Floors/The Floor of Sand.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Shadows.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 868,
+      "exportedPath": "Locations/Floors/The Floor of Shadows.html",
+      "dependencies": []
+    },
+    "Locations/Floors/The Floor of Water.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 108,
+      "exportedPath": "Locations/Floors/The Floor of Water.html",
+      "dependencies": []
+    },
+    "Locations/Kingdoms/Kingdom of Smiths.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 12,
+      "exportedPath": "Locations/Kingdoms/Kingdom of Smiths.html",
+      "dependencies": []
+    },
+    "Locations/Kingdoms/Kingdom on Floor 5.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Locations/Kingdoms/Kingdom on Floor 5.html",
+      "dependencies": []
+    },
+    "Locations/Labyrinths/The Lab.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 1273,
+      "exportedPath": "Locations/Labyrinths/The Lab.html",
+      "dependencies": []
+    },
+    "Locations/Spire/Axis Circle.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 630,
+      "exportedPath": "Locations/Spire/Axis Circle.html",
+      "dependencies": []
+    },
+    "Locations/Spire/Celestial Spire.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 749,
+      "exportedPath": "Locations/Spire/Celestial Spire.html",
+      "dependencies": []
+    },
+    "Locations/Old World.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Locations/Old World.html",
+      "dependencies": []
+    },
+    "Locations/Sanctuary.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Locations/Sanctuary.html",
+      "dependencies": []
+    },
+    "Magic/Elements/Earth.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Elements/Earth.html",
+      "dependencies": []
+    },
+    "Magic/Elements/Fire.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 1,
+      "exportedPath": "Magic/Elements/Fire.html",
+      "dependencies": []
+    },
+    "Magic/Elements/Water.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Elements/Water.html",
+      "dependencies": []
+    },
+    "Magic/Elements/Wind.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Elements/Wind.html",
+      "dependencies": []
+    },
+    "Magic/Spells/Explosion.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Spells/Explosion.html",
+      "dependencies": []
+    },
+    "Magic/Spells/Explosion Fireball.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Spells/Explosion Fireball.html",
+      "dependencies": []
+    },
+    "Magic/Spells/Fireball.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 48,
+      "exportedPath": "Magic/Spells/Fireball.html",
+      "dependencies": []
+    },
+    "Magic/Spells/Stone Blast.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 0,
+      "exportedPath": "Magic/Spells/Stone Blast.html",
+      "dependencies": []
+    },
+    "Magic/Techniques/Casting.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 316,
+      "exportedPath": "Magic/Techniques/Casting.html",
+      "dependencies": []
+    },
+    "Magic/Techniques/Composition.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 270,
+      "exportedPath": "Magic/Techniques/Composition.html",
+      "dependencies": []
+    },
+    "Magic/Techniques/Incantations.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 966,
+      "exportedPath": "Magic/Techniques/Incantations.html",
+      "dependencies": []
+    },
+    "Magic/Techniques/Magic Circles.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 755,
+      "exportedPath": "Magic/Techniques/Magic Circles.html",
+      "dependencies": []
+    },
+    "Magic/Techniques/Materialisation.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 767,
+      "exportedPath": "Magic/Techniques/Materialisation.html",
+      "dependencies": []
+    },
+    "Magic/Magic.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 344,
+      "exportedPath": "Magic/Magic.html",
+      "dependencies": []
+    },
+    "Magic/Mana.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 406,
+      "exportedPath": "Magic/Mana.html",
+      "dependencies": []
+    },
+    "Monsters/Floor Guardians/Floor Guardians.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 275,
+      "exportedPath": "Monsters/Floor Guardians/Floor Guardians.html",
+      "dependencies": []
+    },
+    "Monsters/Floor Guardians/Ghost.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 206,
+      "exportedPath": "Monsters/Floor Guardians/Ghost.html",
+      "dependencies": []
+    },
+    "Timeline/Arc 1.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 388,
+      "exportedPath": "Timeline/Arc 1.html",
+      "dependencies": []
+    },
+    "Timeline/Arc 2.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 6,
+      "exportedPath": "Timeline/Arc 2.html",
+      "dependencies": []
+    },
+    "Timeline/Prologue.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 239,
+      "exportedPath": "Timeline/Prologue.html",
+      "dependencies": []
+    },
+    "Timeline/Time.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 78,
+      "exportedPath": "Timeline/Time.html",
+      "dependencies": []
+    },
+    "Timeline/Timeline.canvas": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 616,
+      "exportedPath": "Timeline/Timeline.html",
+      "dependencies": []
+    },
+    "Home.md": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 643,
+      "exportedPath": "Home.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1715694349655,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    }
+  }
+}

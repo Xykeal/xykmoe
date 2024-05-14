@@ -17,7 +17,8 @@ export const arcPath = (x, y, radius, startAngle, endAngle) => {
     return `M ${start.x} ${start.y} A ${radius} ${radius} 0 ${largeArcFlag} 0 ${end.x} ${end.y}`;       
 }
 
-const Ring = ({ cx, cy, radius, startAngle, endAngle, strokeWidth, stroke, ...restProps }) => {
+// return an arc to be used in an svg
+const Arc = ({ cx, cy, radius, startAngle, endAngle, strokeWidth, stroke, ...restProps }) => {
   return (
     <path
       fill="none"
@@ -29,4 +30,4 @@ const Ring = ({ cx, cy, radius, startAngle, endAngle, strokeWidth, stroke, ...re
   );
 }
 
-export default Ring;
+export default Arc;
